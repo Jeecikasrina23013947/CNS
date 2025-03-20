@@ -71,5 +71,7 @@ void main()
 ```
 
 OUTPUT :-
+
+
 ![ex1](https://github.com/user-attachments/assets/7b771eec-4e94-4691-9cfc-c2c8d7819e29)
 
