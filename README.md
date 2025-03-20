@@ -75,3 +75,9 @@ OUTPUT :-
 
 ![ex1](https://github.com/user-attachments/assets/7b771eec-4e94-4691-9cfc-c2c8d7819e29)
 
+RESULT:
+
+The implementation of simple substitution technique named Caesar cipher using C language is executed successfully.
+
+
+
